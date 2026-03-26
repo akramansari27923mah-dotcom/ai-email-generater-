@@ -93,7 +93,7 @@ VITE_API_URL=your_backend_api_url
 
 ## 🌐 Live Demo
 
-*Add your deployed frontend link here (Vercel / Netlify)*
+* https://ai-email-generater.vercel.app/login *
 
 ---
 
