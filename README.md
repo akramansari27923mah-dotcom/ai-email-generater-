@@ -102,7 +102,7 @@ VITE_API_URL=your_backend_api_url
 **Akram Ansari**
 
 *  Frontend Developer
-*  Aspiring MERN Stack Developer
+*  MERN Stack Developer
 
 ---
 
