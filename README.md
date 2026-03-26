@@ -84,8 +84,11 @@ VITE_API_URL=your_backend_api_url
 
 ## 📸 Screenshots
 
-*Add screenshots of your project UI here*
+###  Home Page
+![Home](public/home.png)
 
+### 🔐 Login Page
+![Login](public/login.png)
 ---
 
 ## 🌐 Live Demo
