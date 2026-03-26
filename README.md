@@ -1,16 +1,115 @@
-# React + Vite
+#  AI Email Generator (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered email generator web application that helps users create professional, well-structured emails instantly based on their input.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+*  Generate professional emails using AI
+*  Secure User Authentication (Login / Signup)
+*  Multiple email types (Job, Leave, Formal, etc.)
+*  Multi-language support
+*  Fast and responsive UI
+*  Clean and modern design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*  React.js
+*  Tailwind CSS
+*  Axios
+*  REST API Integration
+
+---
+
+## 📂 Folder Structure
+
+```
+src/
+│── components/
+│── features/
+│── context/
+│── services/
+│── App.jsx
+│── main.jsx
+```
+
+---
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/akramansari27923mah-dotcom/ai-email-generater-.git
+```
+
+### 2️⃣ Navigate to project folder
+
+```bash
+cd ai-email-generater-/Frontend
+```
+
+### 3️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## 🔑 Environment Variables
+
+Create a `.env` file in the root directory and add:
+
+```env
+VITE_API_URL=your_backend_api_url
+```
+
+---
+
+## 🔗 Backend Repository
+
+* https://github.com/akramansari27923mah-dotcom/ai-email-auth-api.git
+
+---
+
+## 📸 Screenshots
+
+*Add screenshots of your project UI here*
+
+---
+
+## 🌐 Live Demo
+
+*Add your deployed frontend link here (Vercel / Netlify)*
+
+---
+
+## 🙌 Author
+
+**Akram Ansari**
+
+*  Frontend Developer
+*  Aspiring MERN Stack Developer
+
+---
+
+## 📬 Contact
+
+* GitHub: https://github.com/akramansari27923mah-dotcom
+* Email: [akramansari27923mah@gmail.com ](mailto:akramansari27923mah@gmail.com )
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
